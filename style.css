@@ -95,7 +95,6 @@ textarea:not([rows]) {
     color: white;
     min-height: 100vh;
     max-width: 1440px;
-    margin: 0 auto;
 }
 
 .sizes {
@@ -107,19 +106,4 @@ textarea:not([rows]) {
     padding: 1rem 2rem;
     border-radius: 1rem;
     background-color: black;
-}
-@media screen and (max-width: 768px) {
-    html {
-        font-size: 50%;
-    }
-}
-@media screen and (max-width: 480px) {
-    html { 
-        font-size: 43.75%; 
-    }
-}
-@media screen and (max-width: 1024px) {
-    html { 
-        font-size: 56.25%; 
-    }
 }
