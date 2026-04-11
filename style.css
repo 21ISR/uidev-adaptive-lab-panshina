@@ -96,6 +96,9 @@ textarea:not([rows]) {
     min-height: 100vh;
     max-width: 1440px;
 }
+.container {
+    
+}
 
 .sizes {
     display: flex;
